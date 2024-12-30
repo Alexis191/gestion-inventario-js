@@ -83,5 +83,6 @@ agregarProducto(1, "Laptop", 10, 1200);
 agregarProducto(2, "Mouse", 50, 25);
 listarProductos();
 buscarProductoPorId(1);
+eliminarProductoPorId(2);
 listarProductos();
     
